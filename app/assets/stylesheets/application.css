@@ -1,0 +1,35 @@
+header {
+  background-color:aqua;
+  width:100%;
+  padding:20px;
+  text-align:center;
+  color:green;
+}
+
+nav#menu {
+  background-color:green;
+  color:aqua;
+  width:200px;
+  float:left;
+  height:800px;
+}
+
+nav p {
+  padding:10px;
+  width:50px;
+  background-color:green;
+  color:aqua;
+  margin-left:5px;
+  text-decoration:none;
+}
+
+nav p:hover {
+  background-color:aqua;
+  color:green;
+  width:150px;
+}
+
+section {
+  float:left;
+  margin-left:10px;
+}
